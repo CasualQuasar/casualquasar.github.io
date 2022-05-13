@@ -1,0 +1,64 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: #2b1861;
+}
+
+.header-svg{
+    margin: 0%;
+    background-image: url("../svg/comet.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+.header-text{
+    font-size: 12vw;
+    font-family: sans-serif;
+    text-align: center;
+    color:white;
+    padding-top: 10%;
+    padding-bottom: 2%;
+}
+
+.header-desc{
+    text-align: left;
+    font-size: 3vw;
+    padding-top: -20%;
+    padding-bottom: 10%;
+    color: white;
+    text-align: center;
+}
+
+.main {
+   background-color: #4D3A81;
+   font-size: 120px;
+   color:white;
+   position: relative;
+   padding:10%;
+   margin: 0%;
+   height: 100%;
+   width: 100%;
+}
+
+.footer {
+   position: relative;
+   color: white; 
+   margin: 0%;
+   padding: 0%;
+}
+
+p{
+   margin: 0%;
+}
+
+.nav-text{
+    font-size: 2vw;
+}
+
+.navbar-brand{
+    padding: 8px;
+    margin-right: 4px;
+    font-size: 1.8rem;
+}
